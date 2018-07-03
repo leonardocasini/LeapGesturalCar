@@ -8,13 +8,9 @@ These instructions will get you a copy of the project up and running on your loc
 
 
 ### Prerequisites
-
-The software was developed with the below:
-
-
-```
-Python 2.7
-```
+We used Python 2.7 for the development of software.
+The libraries necessary for the use of the program are:
+  * Tkinter
 
 ### Installing
 
